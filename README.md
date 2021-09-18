@@ -1,12 +1,12 @@
 # html-css-refactor
 
-=== PROJECT COMPLETE ===
+## PROJECT COMPLETE
 
-LINK: https://akeneagle.github.io/html-css-refactor/
+LINK: [click here](https://akeneagle.github.io/html-css-refactor)
 
-=== PREVIEW ===
+## PREVIEW
 
-![preview](./preview.png)
+![preview](./assets/images/screenshots/preview.png)
 
 Refactored the code of an existing website using semantic HTML elements.
 
